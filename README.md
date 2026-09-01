@@ -31,6 +31,16 @@ six-view operator dashboard.
 
 Bun · TypeScript · Claude Agent SDK · SQLite · Preact
 
+### [KOM17](https://github.com/kevinscott66/kom17)
+
+A Telegram community platform and a strangler-fig refactor carried out in
+production: a 45k-line single-file monolith replaced module by module with a
+typed, dependency-injected aiogram 3 application, both pipelines sharing one
+database and one webhook. Invites, moderation, an in-chat economy with real
+payment providers, games, AI assistants and an admin panel.
+
+Python · aiogram 3 · FastAPI · SQLAlchemy 2 · Alembic
+
 ### [VahtaHoz](https://github.com/kevinscott66/bazahoz)
 
 Offline-ready warehouse and task management for distributed field teams. A PWA
