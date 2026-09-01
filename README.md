@@ -1,24 +1,43 @@
 # kevinscott66
 
-Full-stack engineer focused on secure, production-oriented software for real operational workflows.
+Full-stack engineer focused on secure, production-oriented software for real
+operational workflows.
 
-I build systems that combine product engineering, backend automation, mobile and web clients, and pragmatic infrastructure. My recent work includes offline-first field software, encrypted peer-to-peer communication, Telegram platforms, and multi-agent operations tooling.
+I build systems that combine product engineering, backend automation, mobile and
+web clients, and pragmatic infrastructure. My recent work includes offline-first
+field software, encrypted peer-to-peer communication, Telegram platforms, and
+multi-agent operations tooling.
+
+**[dobropalm.tech](https://dobropalm.tech)** · hello@dobropalm.tech · [@dobropalm](https://t.me/dobropalm)
 
 ## Selected work
 
-### VahtaHoz
+### [AirChat](https://github.com/kevinscott66/airchat)
 
-Offline-ready warehouse and task management for distributed field teams. The product combines a PWA, Supabase-backed authorization and row-level security, native packaging, and resilient synchronization for unreliable networks.
+A decentralised mobile messenger that keeps working when the network does not.
+Multi-transport mesh routing across WebRTC, IPFS pubsub, LAN discovery and
+long-range radio, with store-and-forward delivery for peers that are never
+online at the same time. Self-owned `did:key` identity derived from a BIP39
+seed phrase, end-to-end encryption, and an encrypted local database.
 
-[Live application](https://vahta.razvedchick.ru) · [Source code](https://github.com/kevinscott66/bazahoz)
+React Native · Expo · libp2p · `@noble` cryptography
 
-### AirChat
+### [Multi-agent operations platform](https://github.com/kevinscott66/ai-agents)
 
-A privacy-oriented React Native messenger exploring encrypted local storage and multi-transport peer-to-peer communication across WebRTC, LAN discovery, Bluetooth, and decentralized messaging layers.
+A production platform coordinating twelve role-scoped agents inside a Telegram
+group: tiered autonomy per role, a fail-closed permission gate, human approval
+for risky actions, audited tool execution, persistent task queues and a
+six-view operator dashboard.
 
-### Multi-agent operations platform
+Bun · TypeScript · Claude Agent SDK · SQLite · Preact
 
-A production TypeScript and Bun platform coordinating specialized Telegram agents, audited tool execution, approvals, persistent task queues, operational dashboards, and controlled deployment workflows.
+### [VahtaHoz](https://github.com/kevinscott66/bazahoz)
+
+Offline-ready warehouse and task management for distributed field teams. A PWA
+with Supabase-backed authorization and row-level security, native packaging,
+and resilient synchronization for unreliable networks.
+
+[Live application](https://vahta.razvedchick.ru)
 
 ## Engineering focus
 
@@ -35,5 +54,3 @@ A production TypeScript and Bun platform coordinating specialized Telegram agent
 - Operational software should remain usable under partial failure.
 - Automation needs explicit permissions, auditability, and recovery paths.
 - A portfolio should show finished decisions and verified behavior, not internal noise.
-
-More public source and technical case studies are being prepared after dependency and secret-history audits.
