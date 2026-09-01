@@ -47,7 +47,7 @@ Offline-ready warehouse and task management for distributed field teams. A PWA
 with Supabase-backed authorization and row-level security, native packaging,
 and resilient synchronization for unreliable networks.
 
-[Live application](https://vahta.razvedchick.ru)
+[More on dobropalm.tech](https://dobropalm.tech)
 
 ## Engineering focus
 
