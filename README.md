@@ -10,7 +10,7 @@ I build systems that combine product engineering, backend automation, mobile and
 
 Offline-ready warehouse and task management for distributed field teams. The product combines a PWA, Supabase-backed authorization and row-level security, native packaging, and resilient synchronization for unreliable networks.
 
-[Live application](https://vahta.razvedchick.ru) · Public source is undergoing a final security review
+[Live application](https://vahta.razvedchick.ru) · [Source code](https://github.com/kevinscott66/bazahoz)
 
 ### AirChat
 
