@@ -32,9 +32,10 @@ account sync restores conversations on another device, while servers still see
 routing and sync metadata. Posts shared by public link are unencrypted.
 
 The browser supports internet connectivity and WebRTC; native builds add LAN
-messaging. Wi-Fi Direct mesh remains disabled in the current source, and LoRa/HF
-are not enabled. Browser key storage offers weaker protection than native secure
-storage; sync and calls require connectivity.
+messaging. Your seed phrase is your account: no operator can issue or recover it,
+and the same identity unlocks your encrypted history on another device. Browser
+key storage offers weaker protection than native secure storage; sync and calls
+require connectivity.
 
 React Native · Expo 55 · TypeScript · libp2p · WebRTC · LAN · `@noble` cryptography
 
