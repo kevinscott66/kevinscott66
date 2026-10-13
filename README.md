@@ -13,6 +13,7 @@ logic, architecture and validation, using AI tools in development.
 | [VahtaHoz](https://github.com/kevinscott66/bazahoz) | Warehouse and task workflows for rotational crews | [Live app](https://vahta.razvedchick.ru/vahtahoz.html) |
 | [AirChat](https://github.com/kevinscott66/airchat) | Seed-based identity and encrypted history across devices | [Case](https://dobropalm.tech/case-studies/airchat/) · [Web app](https://air.dobropalm.tech) |
 | [KOM17](https://github.com/kevinscott66/kom17) | My community platform, evolved from a monolith into modules | [Case](https://dobropalm.tech/case-studies/kom17/) |
+| [Viora](https://github.com/kevinscott66/viora) | Personal music library, import and background playback. Active development | [Source](https://github.com/kevinscott66/viora) |
 | [DeLabs](https://delabs.space) | Research, activity guides and a searchable project catalog | [Live site](https://delabs.space) |
 
 Have a manual workflow or an app idea? [See how we can work together](https://dobropalm.tech/#services).
